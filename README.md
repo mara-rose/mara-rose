@@ -1,6 +1,6 @@
 <div align="center">
 
-# ˗ˏˋ ♡ welcome to MaramTryToBies ♡ ˎˊ˗
+# ˗ˏˋ ♡ welcome to mara-rose ♡ ˎˊ˗
 
 ⋆˚࿔ ⋆౨ৎ˚⟡.• ࿔˚⋆
 
