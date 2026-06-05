@@ -1,23 +1,42 @@
-<h1>Wellcome to my MaramTriesToBe's World</h1>
-<h3>My journey into Frontend Developer</h3>
+<div align="center">
 
-- 📫 How to reach me **maramexx3@gmail.com**
+# ˗ˏˋ ♡ welcome to MaramTryToBies ♡ ˎˊ˗
 
----
+⋆˚࿔ ⋆౨ৎ˚⟡.• ࿔˚⋆
 
-### :hammer_and_wrench: Languages and Tools :
+*✿ a soft little corner for projects shared on online ✿*
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/> 
- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mara-rose&theme=dark&hide_border=true&border_radius=12&short_numbers=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+<div align="center">
 
+## ⋆｡‧˚ʚ about this page ɞ˚‧｡⋆
+
+</div>
+
+> ⟡ &nbsp;this account hosts **projects i've posted** ♡  
+> ⟡ &nbsp;a mix of personal builds, tutorials, and templates you can use  
+> ⟡ &nbsp;all projects have setup instructions in README.md files
+
+---
+
+## ✿ guidelines ✿
+
+</div>
+
+> ⟡ &nbsp;**feel free to:** fork, learn from, get inspired by these projects  
+> ⟡ &nbsp;**please don't:** repost as your own work without credit  
+> ⟡ &nbsp;**if you use the template:** a little tag or shoutout is always appreciated ♡  
+
+---
+
+<div align="center">
+
+⋆｡˚ ☁︎ ˚｡⋆୨୧˚ ⋆ ˚｡⋆୨୧˚ ⋆ ˚｡⋆୨୧˚ ⋆｡˚ ☁︎ ˚｡⋆
+
+***happy coding***
+
+</div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mara-rose&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
