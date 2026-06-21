@@ -22,22 +22,15 @@
 
 ---
 
-## ✿ guidelines ✿
+## ✿ a note from me ✿
 
 </div>
 
 > ⟡ &nbsp;**feel free to:** fork, learn from, get inspired by these projects  
 > ⟡ &nbsp;**please don't:** repost as your own work without credit  
-> ⟡ &nbsp;**if you use the template:** a little tag or shoutout is always appreciated ♡  
+> ⟡ &nbsp;**exploring:** JavaScript,React and being a frontend development ♡  
 
 ---
-
-## ✿ what i'm learning ✿
-
-</div>
-
-> ⟡ &nbsp;**diving deeper into React 
-> ⟡ &nbsp;**exploring JavaScript and frontend development
 
 
 <div align="center">
