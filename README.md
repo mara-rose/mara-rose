@@ -18,7 +18,7 @@
 
 > ⟡ &nbsp;this account hosts **projects i've posted** ♡  
 > ⟡ &nbsp;a mix of personal builds, tutorials, and templates you can use  
-> ⟡ &nbsp;all projects have setup instructions in README.md files
+> ⟡ &nbsp;I'm Frontend-Developer, so I do my best 
 
 ---
 
@@ -31,6 +31,14 @@
 > ⟡ &nbsp;**if you use the template:** a little tag or shoutout is always appreciated ♡  
 
 ---
+
+## ✿ what i'm learning ✿
+
+</div>
+
+> ⟡ &nbsp;**diving deeper into React 
+> ⟡ &nbsp;**exploring JavaScript and frontend development
+
 
 <div align="center">
 
